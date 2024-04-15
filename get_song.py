@@ -62,12 +62,15 @@ def get_song(url):
 
         f.write("\n")
 
-        for p in lyrics[:-1]:
+        for i, p in enumerate(lyrics[:-1]):
             lines = p.text.split("        ")
             for line in lines:
                 f.write(line)
 
-            f.write("\n\n")
+            if i == 0:
+                f.write("\n")
+            else:
+                f.write("\n\n")
        
     save_path = f"songs/{'-'.join(name.split())[1:-1]}.txt"  
     return save_path
