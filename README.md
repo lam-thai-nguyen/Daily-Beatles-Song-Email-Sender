@@ -4,7 +4,7 @@
 
 ## Motivation
 
-- Reading lyrics from great lyricists was said to help improve our own songwriting skills. Since Lennon-McCarney is the greatest composer duo (said The Sunday Times in 1963), it would be great for someone like me who loves writing songs to read their songs on a daily basis. 
+- Reading lyrics from great lyricists has been said to help improve our own songwriting skills. Since Lennon-McCarney is the greatest composer duo (as stated by The Sunday Times in 1963), it would be great for someone like me who loves writing songs to read their songs on a daily basis. 
 
 ## Overview
 
