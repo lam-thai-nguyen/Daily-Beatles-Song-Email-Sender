@@ -67,7 +67,7 @@ def get_song(url):
             for line in lines:
                 f.write(line)
 
-            f.write("\n")
+            f.write("\n\n")
        
     save_path = f"songs/{'-'.join(name.split())[1:-1]}.txt"  
     return save_path
